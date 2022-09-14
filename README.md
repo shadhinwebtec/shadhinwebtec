@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadhin Mridha</h1>
 <h3 align="center">A Data science Engineer...</h3>
 
-- 🌱 I’m currently learning **Machine learning, Deep learning**
+- 🌱 I’m currently Working with **Machine learning, Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadhinwebtec/portfolio.git](https://github.com/shadhinwebtec/portfolio.git)
 
