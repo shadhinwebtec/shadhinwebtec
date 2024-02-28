@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadhinwebtec/portfolio.git](https://github.com/shadhinwebtec/portfolio.git)
 
-- 💬 Ask me about **Machine learning ,CNN,RNN,Web development ,Basic Python p**
+- 💬 Ask me about **Machine learning , CNN,RNN,LLM and LIM**
 
 - 📫 How to reach me **ismailhossain.sadhin17@gmail.com**
 
