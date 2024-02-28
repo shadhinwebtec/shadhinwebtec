@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Shadhin Mridha</h1>
-<h3 align="center">A Data science Engineer...</h3>
+<h3 align="center">An Artificial Intelligence Engineer...</h3>
 <img align='right' alt='Coding' width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently Working with **Machine learning, Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadhinwebtec/portfolio.git](https://github.com/shadhinwebtec/portfolio.git)
 
-- 💬 Ask me about **Machine learning , CNN,RNN,LLM and LIM**
+- 💬 Ask me about **Machine learning, CNN, RNN, LLM and LIM**
 
 - 📫 How to reach me **ismailhossain.sadhin17@gmail.com**
 
